@@ -7,8 +7,6 @@ This project is part of the QA program's Sprint 8. It's a UI test automation fra
 ## 👤 Author
 
 **Full Name:** Luis Manco  
-**Cohort:** qa-cohort-23
-
 ---
 
 ## 📌 Test Scenario Scope
