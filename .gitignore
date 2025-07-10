@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Logs
+logs/
+*.log
+
+# IDEs y editores
+.vscode/
+.idea/
+*.iml
+
+# pytest
+.cache/
+.junit/
+htmlcov/
+
+# Archivos sensibles
+config.json
+.env
+secrets.json
+
+# Git
+.DS_Store
+*.swp
+*.swo
+*.swn
